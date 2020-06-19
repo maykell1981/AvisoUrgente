@@ -1,6 +1,7 @@
 # AvisoUrgente
 Segue os passos a serem executados para rodar os itens do teste.
 
+Primeiro passo é realizar é o download das pastas presentes no repositório.
 
   * Objetivo 1
   
@@ -9,7 +10,7 @@ Segue os passos a serem executados para rodar os itens do teste.
   
   * Objetivo 2
   
-    - Fazer o clone da pasta Api
+    - Abir a pasta Api
     - Abrir no VisualStudio ou outra IDE o arquivo ProjetoApi.sln
     - Compilar o arquivo no modo IIS, para que a aplicação seja criada dentro do IIS para poder poder atender outros requisitos do teste
     - Para checar se a Api foi criada no IIS corretamente, basta fechar a IDE e executar no browser o camino: http://localhost/AvisoUrgente/swagger
@@ -18,7 +19,7 @@ Segue os passos a serem executados para rodar os itens do teste.
     
   * Objetivo 3
   
-    - Fazer o clone da pasta RaspagemTRF1
+    - Abri a pasta RaspagemTRF1
     - Abrir no VisualStudio ou outra IDE o arquivo RaspagemTRF1.sln
     - Para buscar as informações das movimentações do processos cadastrador a Api citada no Objetivo 2 deverá estar sendo executada no IIS local
     - Para checar se a Api do objetivo 2 do objetivo foi criada no IIS corretamente, basta fechar a IDE e executar no browser o camino: http://localhost/AvisoUrgente/swagger
