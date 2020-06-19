@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rapasgem TRF1", "Rapasgem TRF1.csproj", "{640AFFF9-203E-45FA-A3F7-D6DFC682C4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{640AFFF9-203E-45FA-A3F7-D6DFC682C4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640AFFF9-203E-45FA-A3F7-D6DFC682C4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640AFFF9-203E-45FA-A3F7-D6DFC682C4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640AFFF9-203E-45FA-A3F7-D6DFC682C4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E4B2DFA-8A74-487F-8541-466CA9C3E9C9}
+	EndGlobalSection
+EndGlobal
