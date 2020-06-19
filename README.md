@@ -1,7 +1,7 @@
 # AvisoUrgente
 Segue os passos a serem executados para rodar os itens do teste.
 
-Primeiro passo é realizar é o download das pastas presentes no repositório.
+Primeiro passo é realizar o download das pastas presentes no repositório.
 
   * Objetivo 1
   
