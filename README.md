@@ -13,6 +13,7 @@ Segue os passos a serem executados para rodar os itens do teste.
     - Abrir no VisualStudio ou outra IDE o arquivo ProjetoApi.sln
     - Compilar o arquivo no modo IIS, para que a aplicação seja criada dentro do IIS para poder poder atender outros requisitos do teste
     - Para checar se a Api foi criada no IIS corretamente, basta fechar a IDE e executar no brownser o camino: http://localhost/AvisoUrgente/swagger
+    - Para executar os serviços da Api basta clicar no serviço desejado, clicar no botão Try it out, informar os parâmetros no serviços que possui e por último clicar no botão execute.
     
     
   * Objetivo 3
